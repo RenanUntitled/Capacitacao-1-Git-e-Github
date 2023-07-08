@@ -1,0 +1,3 @@
+Comandos:
+
+Add: Serve para adicionar os arquivos desejados no controle de versão que estiver trabalhando.
