@@ -1,3 +1,5 @@
 Comandos:
 
 Add: Serve para adicionar os arquivos desejados no controle de versão que estiver trabalhando.
+
+Status: Serve para verificar a situação (se estão atualizados ou não) dos arquivos que estão salvos localmente.
