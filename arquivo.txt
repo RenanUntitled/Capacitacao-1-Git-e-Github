@@ -11,3 +11,5 @@ Pull: Serve para baixar um conteudo salvo na nuvem e sobreescrever o local.
 Push: Serve para enviar uma atualização feita localmente para a nuvem.
 
 Clone: Serve para fazer uma copia de um repositório local ou na nuvem.
+
+Pull Request: Serve para criar um sistema de aprovação para realizar alterações na branch principal do projeto.
