@@ -7,3 +7,5 @@ Status: Serve para verificar a situação (se estão atualizados ou não) dos ar
 Commit: Serve para criar uma versão do código que poderá ser enviada para a nuvem (repositório Github).
 
 Pull: Serve para baixar um conteudo salvo na nuvem e sobreescrever o local.
+
+Push: Serve para enviar uma atualização feita localmente para a nuvem.
