@@ -9,3 +9,5 @@ Commit: Serve para criar uma versão do código que poderá ser enviada para a n
 Pull: Serve para baixar um conteudo salvo na nuvem e sobreescrever o local.
 
 Push: Serve para enviar uma atualização feita localmente para a nuvem.
+
+Clone: Serve para fazer uma copia de um repositório local ou na nuvem.
